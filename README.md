@@ -165,7 +165,7 @@ The hyperparameters used for training are:
 
 ## Results
 
-Loss per batch tends to average below 0.1700 after two epochs and below 0.100 after ten epochs. 
+Loss per batch tends to average below 0.1700 after two epochs.
 
 ### Samples
 
